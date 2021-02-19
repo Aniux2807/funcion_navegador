@@ -1,2 +1,2 @@
-# funcion_navegador
-en este programa se la implentación de archivos de texto en c#
+# Navigator2.0
+Aplicación de archivos de texto en C#
